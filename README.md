@@ -1,5 +1,4 @@
 # 🧠 News Intelligence Predictor
-
 **News Intelligence Predictor** is a web-based machine learning application built with **FastAPI** that classifies the genre or category of news based on the headline and article content. It uses Natural Language Processing (NLP) and a trained ML model to identify patterns and make predictions in real-time.
 
 ---
